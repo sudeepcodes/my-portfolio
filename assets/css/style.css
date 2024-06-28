@@ -827,6 +827,11 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+  list-style-type: disc; /* or any other style you prefer */
+}
+
+.timeline-text li {
+  margin-bottom: 10px; /* Add spacing between bullet points */
 }
 
 
